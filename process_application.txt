@@ -1,0 +1,20 @@
+Process Application
+===================
+
+Course Intake            : January/February 2027
+Passport Country         : Algeria
+Student First Name       : Ravi
+Student Last Name        : Kumar
+Student Passport No.     : A9792530
+Student Email ID         : ravi@yopmail.com
+Student Whatsapp Number  : +213 551234506
+State                    : Alger
+Pincode                  : 16000
+City                     : Alger
+Address Line 1           : 12 Rue Didouche Mourad
+Address Line 2           : Sidi M'Hamed
+Email-ID of the person handling this application : counsellor.test@yopmail.com
+Contact No of the person handling this application : +213 661987654
+Any Previous Visa Refusal : No
+Gender                   : Male
+Do you want to avail Accommodation Assistance for this student in future? : No
